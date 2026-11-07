@@ -57,10 +57,10 @@ export default function ContactPage() {
           <p className="mt-3 text-sm text-text-secondary">
             Email:{' '}
             <a
-              href="mailto:contact@businessandcarobar.com"
+              href="mailto:businessandcarobar@gmail.com"
               className="text-accent hover:underline"
             >
-              contact@businessandcarobar.com
+              businessandcarobar@gmail.com
             </a>
           </p>
 
