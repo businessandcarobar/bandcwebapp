@@ -7,9 +7,15 @@ export interface TeamMember {
 
 export const dummyTeam: TeamMember[] = [
   {
-    name: 'Kartik Saxena',
+    name: 'Deshdeep Saxena',
     role: 'Founder',
-    bio: 'Engineer by trade, storyteller by passion. Building a platform to give grassroots entrepreneurs the spotlight they deserve.',
-    initials: 'KS',
+    bio: 'Storyteller by Profession. Building a platform to give grassroots entrepreneurs the spotlight they deserve.',
+    initials: 'DS',
   },
+  {
+    name: 'Kartik Saxena',
+    role: 'Co-Founder',
+    bio: 'Engineer by trade, storyteller by passion.',
+    initials: 'KS',
+  }
 ];
